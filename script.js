@@ -65,7 +65,7 @@ function gerar() {
     ];
 
     alunos9B = [
-        "AGATHA JUVENCIO",
+        "ÁGATHA JUVENCIO",
         "ÁLVARO MADEIRA",
         "ANA LUIZA",
         "ANDRÉ LUIZ",
@@ -147,8 +147,8 @@ function gerar() {
     alunos1B = [
       "ALICE ARRIEL",
       "ANA LAURA",
+      // "BERNARDO BARBOSA",
       "CLEO CARVALHO",
-      "BERNARDO BARBOSA",
       "EMILLY SILVA",
       "ERICK ZAKHIA ",
       "FELIPE SODRE",
@@ -166,6 +166,7 @@ function gerar() {
       "MARIA E. BOTELHO",
       "MARIA E. OLIVEIRA",
       "MARIA LUIZA",
+      "MATHEUS PEREIRA",
       "MATHEUS ESTEVES",
       "OTÁVIO BARROSO",
       "PEDRO HENRIQUE",
@@ -227,7 +228,7 @@ function gerar() {
       "MARIA LUIZA",
       "MATEUS VITOR",
       "MURILO CARVALHO",
-      "MURILO SOARES ",
+      "MURILO SOARES",
       "THIAGO ANTÔNIO",
       "VICTÓRIA MARIA",
       "VITORIO AUGUSTO",
@@ -296,6 +297,7 @@ function gerar() {
       "YUMI CAROLINA",
       "MARIA PAULA",
     ];
+    // console.log(alunos9A.length, alunos9B.length, alunos1A.length, alunos1B.length, alunos2A.length, alunos2B.length, alunos3A.length, alunos3B.length)
   }
   var sala9A = [];
   var sala9B = [];
@@ -391,6 +393,7 @@ function gerar() {
       array[randomIndex] = temporaryValue;
     }
   }
+  
 
   function randomizingTheOrderOfTheStudents() {
     randomArrayShuffle(alunos9A);
@@ -731,14 +734,14 @@ function gerar() {
         } else if (room == alunos3B) {
           alunos3B3B.push(room[i]);
         }
-        alunos3A9A.sort();
-        alunos3A9B.sort();
-        alunos3A1A.sort();
-        alunos3A1B.sort();
-        alunos3A2A.sort();
-        alunos3A2B.sort();
-        alunos3A3A.sort();
-        alunos3A3B.sort();
+        alunos3B9A.sort();
+        alunos3B9B.sort();
+        alunos3B1A.sort();
+        alunos3B1B.sort();
+        alunos3B2A.sort();
+        alunos3B2B.sort();
+        alunos3B3A.sort();
+        alunos3B3B.sort();
       }
       room.splice(0, numberOfStudents);
     }
@@ -849,42 +852,49 @@ function gerar() {
     }
     res9A.innerHTML += `${sala9A[i]} <br>`;
   }
+
   for (var i = 0; i < sala9B.length; i++) {
     if (i == 0) {
       res9B.innerHTML += `<h2>SALA 9B</h2>`;
     }
     res9B.innerHTML += `${sala9B[i]} <br>`;
   }
+
   for (var i = 0; i < sala1A.length; i++) {
     if (i == 0) {
       res1A.innerHTML += `<h2>SALA 1A</h2>`;
     }
     res1A.innerHTML += `${sala1A[i]} <br>`;
   }
+
   for (var i = 0; i < sala1B.length; i++) {
     if (i == 0) {
       res1B.innerHTML += `<h2>SALA 1B</h2>`;
     }
     res1B.innerHTML += `${sala1B[i]} <br>`;
   }
+
   for (var i = 0; i < sala2A.length; i++) {
     if (i == 0) {
       res2A.innerHTML += `<h2>SALA 2A</h2>`;
     }
     res2A.innerHTML += `${sala2A[i]} <br>`;
   }
+
   for (var i = 0; i < sala2B.length; i++) {
     if (i == 0) {
       res2B.innerHTML += `<h2>SALA 2B</h2>`;
     }
     res2B.innerHTML += `${sala2B[i]} <br>`;
   }
+
   for (var i = 0; i < sala3A.length; i++) {
     if (i == 0) {
       res3A.innerHTML += `<h2>SALA 3A</h2>`;
     }
     res3A.innerHTML += `${sala3A[i]} <br>`;
   }
+  
   for (var i = 0; i < sala3B.length; i++) {
     if (i == 0) {
       res3B.innerHTML += `<h2>SALA 3B</h2>`;
@@ -1195,6 +1205,7 @@ function gerar() {
   ${alunos2A1A[0]} <br>
   ${alunos2A1A[1]} <br>
   ${alunos2A1A[2]} <br>
+  ${alunos2A1A[3]} <br>
   </td>
 
   <td> 
