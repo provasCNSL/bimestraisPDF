@@ -26,84 +26,84 @@ function gerar() {
 
   function definindoAlunos() {
     alunos9A = [
-      "ALICE",
-      "ANA CLARA",
-      "ANA LAURA",
-      "ANA LUÍSA",
-      "ANDRÉ",
-      "ANGELINA",
-      "ANITA",
-      "ARTHUR",
-      "BRUNA",
-      "CAIO GABRIEL",
-      "CAIO MESQUITA",
-      "DEBORA",
-      "ENRIQUE",
-      "GABRIEL",
-      "GABRIELA",
-      "GUILHERME",
-      "GUSTAVO",
-      "HELENA",
-      "HENRIQUE",
-      "JOÃO VITOR",
-      "LEONARDO",
-      "LILIAN",
-      "LUCAS",
-      "LUCIANO",
-      "MARCELA",
-      "MARIA EDUARDA",
-      "MARIA LUIZA",
-      "MARIANA",
-      "MARINA",
-      "OTÁVIO CREPALDI",
-      "OTÁVIO CUSTÓDIO",
-      "OTÁVIO HENRIQUE",
-      "PEDRO FRANÇA",
-      "PEDRO MARQUES",
-      "SOPHIA",
-      "VINÍCIUS",
+        "ALICE ARAÚJO",
+        "ANA CLARA SILVA",
+        "ANA LAURA",
+        "ANA LUÍSA SANTOS",
+        "ANDRÉ DA COSTA",
+        "ANGELINA VIEIRA",
+        "ANITA HELENA",
+        "ARTHUR SILVA",
+        "BRUNA GUALBERTO",
+        "CAIO GABRIEL",
+        "CAIO MESQUITA",
+        "DEBORA FERNANDES",
+        "ENRIQUE RIBEIRO",
+        "GABRIEL BARBOSA",
+        "GABRIELA MADEIRA",
+        "GUILHERME RODRIGUES",
+        "GUSTAVO JULIATE",
+        "HELENA DE PAULA",
+        "HENRIQUE RIBEIRO",
+        "JOÃO VITOR SIQUEIRA",
+        "LEONARDO FELIPE",
+        "LILIAN DE CÁSSIA",
+        "LUCAS DESLANDES",
+        "LUCIANO TEIXEIRA",
+        "MARCELA MESQUITA",
+        "MARIA EDUARDA",
+        "MARIA LUIZA PÁDUA",
+        "MARIANA PIERANGELI",
+        "MARINA PEREIRA",
+        "OTÁVIO CREPALDI",
+        "OTÁVIO CUSTÓDIO",
+        "OTÁVIO HENRIQUE",
+        "PEDRO FRANÇA",
+        "PEDRO MARQUES",
+        "SOPHIA ABREU",
+        "VINÍCIUS RODRIGUES",
     ];
 
     alunos9B = [
-      "ÁGATHA",
-      "ÁLVARO",
-      "ANA LUIZA",
-      "ANDRÉ",
-      "ANITA",
-      "CAIO",
-      "CAMILA",
-      "DAVI",
-      "EDUARDA",
-      "EMILLY",
-      "FERNANDO",
-      "GABRIELLA",
-      "GUSTAVO GUEDES",
-      "IAN PINHEIRO",
-      "IGOR VITORINO",
-      "JOÃO VITOR",
-      "JÚLIA",
-      "KELLY",
-      "LAÍS ",
-      "LAUDOMILA",
-      "LAURA",
-      "LEONARDO",
-      "LETÍCIA GAMA",
-      "LETÍCIA MACHADO",
-      "LIRIS",
-      "LIVIA",
-      "LUÍS ANTÔNIO",
-      "MARCELA FERNANDA",
-      "MARCUS HENRIQUE",
-      "MARIA CLARA DOS SANTOS",
-      "MARIA CLARA NUNES",
-      "MARIA FERNANDA",
-      "MARIA LUÍSA",
-      "MARIA PAULA",
-      "MIGUEL",
-      "STELA ",
-      "IVAN",
-      "SARA RAYNEE",
-      "ERIC",
+        "AGATHA JUVENCIO",
+        "ÁLVARO MADEIRA",
+        "ANA LUIZA",
+        "ANDRÉ LUIZ",
+        "ANITA LOESCH",
+        "CAIO DE SOUZA",
+        "CAMILA MAGALHÃES",
+        "DAVI TEIXEIRA",
+        "EDUARDA ANDRADE",
+        "EMILLY HIPOLITO",
+        "FERNANDO CARVALHO",
+        "GABRIELLA GALDONE",
+        "GUSTAVO GUEDES",
+        "IAN PINHEIRO ",
+        "IGOR VITORINO",
+        "JOÃO VITOR AZEVEDO",
+        "JÚLIA LEITE",
+        "KELLY DIAS DINIZ",
+        "LAÍS LINHARES",
+        "LAUDOMILA MARIA",
+        "LAURA TEIXEIRA",
+        "LEONARDO MATHEUS",
+        "LETÍCIA GAMA",
+        "LETÍCIA MACHADO",
+        "LIRIS RAMOS",
+        "LIVIA DE ALMEIDA",
+        "LUÍS ANTÔNIO LIMA",
+        "MARCELA FERNANDA",
+        "MARCUS HENRIQUE",
+        "MARIA C. SILVA",
+        "MARIA C. BORGES",
+        "MARIA FERNANDA",
+        "MARIA LUÍSA",
+        "MARIA PAULA",
+        "MIGUEL ANDRADE",
+        "STELA OLIVEIRA",
+        "IVAN FLORES",
+        "SARA RAYNEE",
+        "ERIC MARTIMIANO",
     ];
 
     alunos1A = [
@@ -112,6 +112,7 @@ function gerar() {
       "ANA JÚLIA",
       "ANA PAULA",
       "ANNITA BERTILACCHI",
+      "ANTÔNIO HENRIQUE",
       "ANTÔNIO MORETTI",
       "AQUILES GONÇALVES",
       "ARTHUR MENESES",
@@ -120,8 +121,8 @@ function gerar() {
       "FÁDUA DE FATIMA",
       "FERNANDA ALVES",
       "GABRIEL COSTA",
-      "GEOVANA DE OLIVEIRA",
-      "GEOVANNA MADEIRA MARTINS",
+      "GEOVANA ZACARONI",
+      "GEOVANNA MADEIRA",
       "GUILHERME FREIRE",
       "GUSTAVO SOUZA",
       "HELENA DE RESENDE",
@@ -132,9 +133,9 @@ function gerar() {
       "LEONARDO NESTOR",
       "LUIZ PAULO",
       "LUIZA SILVA",
-      "MARIA EDUARDA BARTHOLO",
-      "MARIA EDUARDA VIGILATO",
-      "MATHEUS ARAÚJO FABRI",
+      "MARIA E. BARTHOLO",
+      "MARIA E. VIGILATO",
+      "MATHEUS ARAÚJO",
       "MATHEUS GUERRA",
       "PEDRO CARVALHO",
       "PEDRO DESLANDES",
@@ -146,13 +147,11 @@ function gerar() {
     alunos1B = [
       "ALICE ARRIEL",
       "ANA LAURA",
-      "ANTÔNIO HENRIQUE",
-      "BERNARDO BARBOSA",
       "CLEO CARVALHO",
+      "BERNARDO BARBOSA",
       "EMILLY SILVA",
       "ERICK ZAKHIA ",
-      "FELIPE SODRE PEREIRA",
-      "FELIPE SOUZA CARLOS",
+      "FELIPE SODRE",
       "GABRIELA LIMA",
       "GIOVANA PEREIRA",
       "GIOVANNA JÚLIA",
@@ -164,12 +163,10 @@ function gerar() {
       "LAURA CAMILLY",
       "LORENA LAÍS",
       "LUIZ FELIPE",
-      "MARIA EDUARDA BOTELHO",
-      "MARIA EDUARDA OLIVEIRA ",
-      "MARIA LUIZA CARVALHO",
-      "MATHEUS BOTELHO",
+      "MARIA E. BOTELHO",
+      "MARIA E. OLIVEIRA",
+      "MARIA LUIZA",
       "MATHEUS ESTEVES",
-      "NATAN BARBOSA",
       "OTÁVIO BARROSO",
       "PEDRO HENRIQUE",
       "PEDRO OTÁVIO",
@@ -188,9 +185,9 @@ function gerar() {
       "GABRIELLA OLIVEIRA",
       "GUILHERME MENDES",
       "JOÃO BATISTA",
-      "JOÃO PAULO WOUTERS",
-      "JOÃO PEDRO DA SILVA",
-      "JOAO PEDRO MENDES",
+      "JOÃO P. WOUTERS",
+      "JOÃO P. DA SILVA",
+      "JOAO P. MENDES",
       "JOÃO VICTOR",
       "LÍVIA MARIA",
       "LUCAS BORGES",
@@ -215,7 +212,7 @@ function gerar() {
       "FELIPE FAZA",
       "FELIPE NASCIMENTO",
       "GUSTAVO ALESSANDRO",
-      "GUSTAVO HENRIQUE CARVALHO",
+      "GUSTAVO HENRIQUE",
       "HENRIQUE CRESPO",
       "IGNÁCIO DANIEL",
       "ISABELLY CHRISTINE",
@@ -225,16 +222,16 @@ function gerar() {
       "LERRANYA VICTÓRIA",
       "LUCAS ALVES",
       "LUCAS DE MESQUITA",
-      "MARIA CLARA FURUKAVA",
-      "MARIA EDUARDA GUIMARÃES",
-      "MARIA LUIZA PADOVANI",
+      "MARIA CLARA",
+      "MARIA EDUARDA",
+      "MARIA LUIZA",
       "MATEUS VITOR",
       "MURILO CARVALHO",
-      "MURILO SOARES PENIDO",
-      "THIAGO ANTÔNIO DE",
-      "VICTÓRIA MARIA SANTOS",
+      "MURILO SOARES ",
+      "THIAGO ANTÔNIO",
+      "VICTÓRIA MARIA",
       "VITORIO AUGUSTO",
-      "SOPHIA MARIA ROMANO",
+      "SOPHIA MARIA",
     ];
     alunos3A = [
       "ALEX ANTONY",
@@ -253,10 +250,9 @@ function gerar() {
       "LAÍS DESSIMONI",
       "LUCAS COELHO",
       "LUÍS FELIPE",
-      "MARCELY PEREIRA",
       "MARIA CLARA",
-      "MARIA EDUARDA MARINHO",
-      "MARIA EDUARDA SILVA COSTA",
+      "MARIA E. MARINHO",
+      "MARIA E. DA SILVA",
       "MARIA EMANUELY",
       "MARIANA CARVALHO",
       "MARIANA FALCO",
@@ -267,8 +263,8 @@ function gerar() {
     ];
     alunos3B = [
       "ANA ELISA",
-      "ANA PAULA ALVARENGA",
-      "ANNA CLARA FURTADO",
+      "ANA PAULA",
+      "ANNA CLARA",
       "CAMILA CARVALHO",
       "CAMILLY APARECIDA",
       "GABRIEL FAGUNDES",
@@ -280,6 +276,7 @@ function gerar() {
       "LARISSA NUNES",
       "LETICIA SANTOS",
       "MARCELO AUGUSTO",
+      "MARCELY PEREIRA",
       "MARCOS PAULO",
       "MARIA VITORIA",
       "MARIANA ASSUNÇÃO",
@@ -292,11 +289,11 @@ function gerar() {
       "THAIS CARDOSO",
       "THIAGO JOSÉ",
       "THIAGO LIMA",
-      "VINÍCIUS DE CARVALHO",
-      "VINICIUS DE SOUZA ",
+      "VINÍCIUS SILVA",
+      "VINICIUS DE SOUZA",
       "VINICIUS MARQUES",
       "VINICIUS PEREIRA",
-      "YUMI CAROLINA TAMAMOTO",
+      "YUMI CAROLINA",
       "MARIA PAULA",
     ];
   }
@@ -380,17 +377,6 @@ function gerar() {
   var alunos3B2B = [];
   var alunos3B3A = [];
   var alunos3B3B = [];
-  /*
-            9A: 5 5 6 4 4 4 4 4 36
-            9B: 5 6 6 5 4 4 4 5 39
-            1A: 5 5 4 4 4 4 4 4 34
-            1B: 5 5 4 5 3 3 3 4 32
-            2A: 4 4 3 4 3 3 3 4 28
-            2B: 4 4 4 3 3 3 3 3 27
-            3A: 4 5 3 3 3 3 3 3 27
-            3B: 4 5 4 4 4 3 3 5 32
-                36 39 34 32 28 27 27 
-            */
 
   definindoAlunos();
   function randomArrayShuffle(array) {
@@ -404,7 +390,6 @@ function gerar() {
       array[currentIndex] = array[randomIndex];
       array[randomIndex] = temporaryValue;
     }
-    // console.log(array)
   }
 
   function randomizingTheOrderOfTheStudents() {
@@ -417,7 +402,6 @@ function gerar() {
     randomArrayShuffle(alunos3A);
     randomArrayShuffle(alunos3B);
 
-    var qtd_1A_no_1B;
     function addStudentsAt9A(room, numberOfStudents) {
       for (var i = 0; i < numberOfStudents; i++) {
         // sala9A.push(room[i])
@@ -449,15 +433,15 @@ function gerar() {
       }
       room.splice(0, numberOfStudents);
     }
-
+    
     addStudentsAt9A(alunos9A, 5);
     addStudentsAt9A(alunos9B, 5);
-    addStudentsAt9A(alunos1A, 6);
+    addStudentsAt9A(alunos1A, 5);
     addStudentsAt9A(alunos1B, 4);
     addStudentsAt9A(alunos2A, 4);
     addStudentsAt9A(alunos2B, 4);
     addStudentsAt9A(alunos3A, 4);
-    addStudentsAt9A(alunos3B, 4);
+    addStudentsAt9A(alunos3B, 5);
 
     function addStudentsAt9B(room, numberOfStudents) {
       for (var i = 0; i < numberOfStudents; i++) {
@@ -490,14 +474,15 @@ function gerar() {
       }
       room.splice(0, numberOfStudents);
     }
-    addStudentsAt9B(alunos9A, 5);
-    addStudentsAt9B(alunos9B, 6);
+    
+    addStudentsAt9B(alunos9A, 6);
+    addStudentsAt9B(alunos9B, 5);
     addStudentsAt9B(alunos1A, 6);
-    addStudentsAt9B(alunos1B, 5);
+    addStudentsAt9B(alunos1B, 4);
     addStudentsAt9B(alunos2A, 4);
     addStudentsAt9B(alunos2B, 4);
     addStudentsAt9B(alunos3A, 4);
-    addStudentsAt9B(alunos3B, 5);
+    addStudentsAt9B(alunos3B, 6);
 
     function addStudentsAt1A(room, numberOfStudents) {
       for (var i = 0; i < numberOfStudents; i++) {
@@ -530,14 +515,16 @@ function gerar() {
       }
       room.splice(0, numberOfStudents);
     }
+    
+
     addStudentsAt1A(alunos9A, 5);
     addStudentsAt1A(alunos9B, 5);
-    addStudentsAt1A(alunos1A, 4);
+    addStudentsAt1A(alunos1A, 6);
     addStudentsAt1A(alunos1B, 4);
     addStudentsAt1A(alunos2A, 4);
-    addStudentsAt1A(alunos2B, 4);
-    addStudentsAt1A(alunos3A, 4);
-    addStudentsAt1A(alunos3B, 4);
+    addStudentsAt1A(alunos2B, 3);
+    addStudentsAt1A(alunos3A, 3);
+    addStudentsAt1A(alunos3B, 5);
 
     //SALA 1B:
     function addStudentsAt1B(room, numberOfStudents) {
@@ -571,14 +558,17 @@ function gerar() {
       }
       room.splice(0, numberOfStudents);
     }
-    addStudentsAt1B(alunos9A, 5);
+
+    
+
+    addStudentsAt1B(alunos9A, 4);
     addStudentsAt1B(alunos9B, 5);
     addStudentsAt1B(alunos1A, 4);
-    addStudentsAt1B(alunos1B, 5);
+    addStudentsAt1B(alunos1B, 3);
     addStudentsAt1B(alunos2A, 3);
     addStudentsAt1B(alunos2B, 3);
     addStudentsAt1B(alunos3A, 3);
-    addStudentsAt1B(alunos3B, 4);
+    addStudentsAt1B(alunos3B, 3);
 
     //SALA 2A:
     function addStudentsAt2A(room, numberOfStudents) {
@@ -612,10 +602,13 @@ function gerar() {
       }
       room.splice(0, numberOfStudents);
     }
-    addStudentsAt2A(alunos9A, 4);
-    addStudentsAt2A(alunos9B, 4);
-    addStudentsAt2A(alunos1A, 3);
-    addStudentsAt2A(alunos1B, 4);
+
+    
+
+    addStudentsAt2A(alunos9A, 3);
+    addStudentsAt2A(alunos9B, 5);
+    addStudentsAt2A(alunos1A, 4);
+    addStudentsAt2A(alunos1B, 3);
     addStudentsAt2A(alunos2A, 3);
     addStudentsAt2A(alunos2B, 3);
     addStudentsAt2A(alunos3A, 3);
@@ -653,9 +646,11 @@ function gerar() {
       }
       room.splice(0, numberOfStudents);
     }
+
+    
     addStudentsAt2B(alunos9A, 4);
-    addStudentsAt2B(alunos9B, 4);
-    addStudentsAt2B(alunos1A, 4);
+    addStudentsAt2B(alunos9B, 5);
+    addStudentsAt2B(alunos1A, 3);
     addStudentsAt2B(alunos1B, 3);
     addStudentsAt2B(alunos2A, 3);
     addStudentsAt2B(alunos2B, 3);
@@ -694,8 +689,10 @@ function gerar() {
       }
       room.splice(0, numberOfStudents);
     }
+
+    
     addStudentsAt3A(alunos9A, 4);
-    addStudentsAt3A(alunos9B, 5);
+    addStudentsAt3A(alunos9B, 4);
     addStudentsAt3A(alunos1A, 3);
     addStudentsAt3A(alunos1B, 3);
     addStudentsAt3A(alunos2A, 3);
@@ -745,14 +742,16 @@ function gerar() {
       }
       room.splice(0, numberOfStudents);
     }
-    addStudentsAt3B(alunos9A, 4);
+
+    
+    addStudentsAt3B(alunos9A, 5);
     addStudentsAt3B(alunos9B, 5);
     addStudentsAt3B(alunos1A, 4);
     addStudentsAt3B(alunos1B, 4);
     addStudentsAt3B(alunos2A, 4);
-    addStudentsAt3B(alunos2B, 3);
+    addStudentsAt3B(alunos2B, 4);
     addStudentsAt3B(alunos3A, 3);
-    addStudentsAt3B(alunos3B, 5);
+    addStudentsAt3B(alunos3B, 4);
   }
   randomizingTheOrderOfTheStudents();
   sala9A.push(
@@ -906,7 +905,7 @@ function gerar() {
   <tr>
   <td></td> 
   <td><strong>Alunos do 9ºA</strong></td>
-  <td><strong>Alunos do</strong></td>
+  <td><strong>Alunos do 9ºB</strong></td>
   <td><strong>Alunos do 1ºA</strong></td> 
   <td><strong>Alunos do 1ºB</strong></td>
   <td><strong>Alunos do 2ºA</strong></td>
@@ -915,8 +914,9 @@ function gerar() {
   <td><strong>Alunos do 3ºB</strong></td>
   </tr>
   <tr>
-  <td><strong>Local: Sala 9A</strong></td>
+  <td><strong>Local: <br> Sala 9A</strong></td>
   <td> 
+
   ${alunos9A9A[0]} <br>
   ${alunos9A9A[1]} <br>
   ${alunos9A9A[2]} <br>
@@ -931,14 +931,13 @@ function gerar() {
   ${alunos9A9B[3]} <br>
   ${alunos9A9B[4]} <br>
   </td>
-
+  
   <td> 
   ${alunos9A1A[0]} <br>
   ${alunos9A1A[1]} <br>
   ${alunos9A1A[2]} <br>
   ${alunos9A1A[3]} <br>
   ${alunos9A1A[4]} <br>
-  ${alunos9A1A[5]} <br>
   </td>
 
   <td> 
@@ -974,6 +973,7 @@ function gerar() {
   ${alunos9A3B[1]} <br>
   ${alunos9A3B[2]} <br>
   ${alunos9A3B[3]} <br>
+  ${alunos9A3B[4]} <br>
   </td>
 
   </tr>
@@ -983,13 +983,15 @@ function gerar() {
 
 
   <tr>
-  <td><strong>Local: Sala 9B</strong></td> 
+  <td><strong>Local: <br> Sala 9B</strong></td> 
   <td> 
+  
   ${alunos9B9A[0]} <br>
   ${alunos9B9A[1]} <br>
   ${alunos9B9A[2]} <br>
   ${alunos9B9A[3]} <br>
   ${alunos9B9A[4]} <br>
+  ${alunos9B9A[5]} <br>
   </td> 
   
   <td> 
@@ -998,7 +1000,6 @@ function gerar() {
   ${alunos9B9B[2]} <br>
   ${alunos9B9B[3]} <br>
   ${alunos9B9B[4]} <br>
-  ${alunos9B9B[5]} <br>
   </td>
 
   <td> 
@@ -1015,7 +1016,6 @@ function gerar() {
   ${alunos9B1B[1]} <br>
   ${alunos9B1B[2]} <br>
   ${alunos9B1B[3]} <br>
-  ${alunos9B1B[4]} <br>
   </td>
 
   <td> 
@@ -1045,14 +1045,16 @@ function gerar() {
   ${alunos9B3B[2]} <br>
   ${alunos9B3B[3]} <br>
   ${alunos9B3B[4]} <br>
+  ${alunos9B3B[5]} <br>
   </td>
   </tr>
 
 
 
   <tr>
-  <td><strong>Local: Sala 1A</strong></td>
+  <td><strong>Local: <br> Sala 1A</strong></td>
   <td> 
+  
   ${alunos1A9A[0]} <br>
   ${alunos1A9A[1]} <br>
   ${alunos1A9A[2]} <br>
@@ -1073,6 +1075,8 @@ function gerar() {
   ${alunos1A1A[1]} <br>
   ${alunos1A1A[2]} <br>
   ${alunos1A1A[3]} <br>
+  ${alunos1A1A[4]} <br>
+  ${alunos1A1A[5]} <br>
   </td>
 
   <td> 
@@ -1093,14 +1097,12 @@ function gerar() {
   ${alunos1A2B[0]} <br>
   ${alunos1A2B[1]} <br>
   ${alunos1A2B[2]} <br>
-  ${alunos1A2B[3]} <br>
   </td>
 
   <td> 
   ${alunos1A3A[0]} <br>
   ${alunos1A3A[1]} <br>
   ${alunos1A3A[2]} <br>
-  ${alunos1A3A[3]} <br>
   </td>
 
   <td> 
@@ -1108,19 +1110,20 @@ function gerar() {
   ${alunos1A3B[1]} <br>
   ${alunos1A3B[2]} <br>
   ${alunos1A3B[3]} <br>
+  ${alunos1A3B[4]} <br>
   </td>
   </tr>
 
-
+  
 
   <tr>
-  <td><strong>Local: Sala 1B</strong></td>
-  <td> 
+  <td><strong>Local: <br> Sala 1B</strong></td>
+  <td>
+  
   ${alunos1B9A[0]} <br>
   ${alunos1B9A[1]} <br>
   ${alunos1B9A[2]} <br>
   ${alunos1B9A[3]} <br>
-  ${alunos1B9A[4]} <br>
   </td> 
   
   <td> 
@@ -1142,8 +1145,6 @@ function gerar() {
   ${alunos1B1B[0]} <br>
   ${alunos1B1B[1]} <br>
   ${alunos1B1B[2]} <br>
-  ${alunos1B1B[3]} <br>
-  ${alunos1B1B[4]} <br>
   </td>
 
   <td> 
@@ -1168,20 +1169,18 @@ function gerar() {
   ${alunos1B3B[0]} <br>
   ${alunos1B3B[1]} <br>
   ${alunos1B3B[2]} <br>
-  ${alunos1B3B[3]} <br>
   </td>
   </tr>
 
 
-
+  
 
   <tr>
-  <td><strong>Local: Sala 2A</strong></td>
+  <td><strong>Local: <br> Sala 2A</strong></td>
   <td> 
   ${alunos2A9A[0]} <br>
   ${alunos2A9A[1]} <br>
   ${alunos2A9A[2]} <br>
-  ${alunos2A9A[3]} <br>
   </td> 
   
   <td> 
@@ -1189,6 +1188,7 @@ function gerar() {
   ${alunos2A9B[1]} <br>
   ${alunos2A9B[2]} <br>
   ${alunos2A9B[3]} <br>
+  ${alunos2A9B[4]} <br>
   </td>
 
   <td> 
@@ -1201,7 +1201,6 @@ function gerar() {
   ${alunos2A1B[0]} <br>
   ${alunos2A1B[1]} <br>
   ${alunos2A1B[2]} <br>
-  ${alunos2A1B[3]} <br>
   </td>
 
   <td> 
@@ -1232,10 +1231,8 @@ function gerar() {
 
 
 
-
-
   <tr>
-  <td><strong>Local: Sala 2B</strong></td>
+  <td><strong>Local: <br> Sala 2B</strong></td>
   <td> 
   ${alunos2B9A[0]} <br>
   ${alunos2B9A[1]} <br>
@@ -1248,13 +1245,13 @@ function gerar() {
   ${alunos2B9B[1]} <br>
   ${alunos2B9B[2]} <br>
   ${alunos2B9B[3]} <br>
+  ${alunos2B9B[4]} <br>
   </td>
 
   <td> 
   ${alunos2B1A[0]} <br>
   ${alunos2B1A[1]} <br>
   ${alunos2B1A[2]} <br>
-  ${alunos2B1A[3]} <br>
   </td>
 
   <td> 
@@ -1289,10 +1286,11 @@ function gerar() {
   </tr>
 
 
+  
 
 
   <tr>
-  <td><strong>Local: Sala 3A</strong></td>
+  <td><strong>Local: <br> Sala 3A</strong></td>
   <td> 
   ${alunos3A9A[0]} <br>
   ${alunos3A9A[1]} <br>
@@ -1305,7 +1303,6 @@ function gerar() {
   ${alunos3A9B[1]} <br>
   ${alunos3A9B[2]} <br>
   ${alunos3A9B[3]} <br>
-  ${alunos3A9B[4]} <br>
   </td>
 
   <td> 
@@ -1347,15 +1344,16 @@ function gerar() {
 
 
 
-
+  
 
   <tr>
-  <td><strong>Local: Sala 3B</strong></td>
+  <td><strong>Local: <br> Sala 3B</strong></td>
   <td> 
   ${alunos3B9A[0]} <br>
   ${alunos3B9A[1]} <br>
   ${alunos3B9A[2]} <br>
   ${alunos3B9A[3]} <br>
+  ${alunos3B9A[4]} <br>
   </td> 
   
   <td> 
@@ -1391,6 +1389,7 @@ function gerar() {
   ${alunos3B2B[0]} <br>
   ${alunos3B2B[1]} <br>
   ${alunos3B2B[2]} <br>
+  ${alunos3B2B[3]} <br>
   </td>
 
   <td> 
@@ -1404,25 +1403,24 @@ function gerar() {
   ${alunos3B3B[1]} <br>
   ${alunos3B3B[2]} <br>
   ${alunos3B3B[3]} <br>
-  ${alunos3B3B[4]} <br>
   </td>
   </tr>
   </table>`;
 }
 function gerarPDF() {
-    var dados = res.innerHTML;
-    var janela = window.open("", "", "width=1200, height=1200");
-    janela.document.write("<html><head><style>");
-    janela.document.write(
-      "table, tr, td { border: 1px solid black; border-collapse: collapse; font-size: 8px;} td {padding: 5px;} body {font-family: Helvetica;} "
-    );
-    janela.document.write("</style>");
-    janela.document.write("</head>");
-    janela.document.write("<body>");
-    janela.document.write(dados);
-    janela.document.write("</body></html>");
-    janela.document.close();
-    janela.print();
+  var dados = res.innerHTML;
+  var janela = window.open("", "", "width=1200, height=1200");
+  janela.document.write("<html><head><style>");
+  janela.document.write(
+    "table, tr, td { border: 1px solid black; border-collapse: collapse; font-size: 10px;} td {padding: 5px;} body {font-family: Helvetica;} "
+  );
+  janela.document.write("</style>");
+  janela.document.write("</head>");
+  janela.document.write("<body>");
+  janela.document.write(dados);
+  janela.document.write("</body></html>");
+  janela.document.close();
+  janela.print();
 }
 
 /*
@@ -1437,4 +1435,14 @@ function gerarPDF() {
         3A: 4 5 3 3 3 3 3 3
         3B: 4 5 4 4 4 3 3 5
             9 9 1 1 2 2 3 3
+
+5 5 5 4 4 4 4 5 36
+6 5 6 4 4 4 4 6 39
+5 5 6 4 4 3 3 5 35
+4 5 4 3 3 3 3 3 28
+3 5 4 3 3 3 3 4 28
+4 5 3 3 3 3 3 3 27
+4 4 3 3 3 3 3 3 26
+5 5 4 4 4 4 3 4 33
+
         */
